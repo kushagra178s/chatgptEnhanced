@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kushagra178s.github.io/Contact-list/static/css/main.a7d56b8d.css",
+    "main.js": "/kushagra178s.github.io/Contact-list/static/js/main.04546ed6.js",
+    "static/js/787.635aedaa.chunk.js": "/kushagra178s.github.io/Contact-list/static/js/787.635aedaa.chunk.js",
+    "static/media/logo.svg": "/kushagra178s.github.io/Contact-list/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kushagra178s.github.io/Contact-list/index.html",
+    "main.a7d56b8d.css.map": "/kushagra178s.github.io/Contact-list/static/css/main.a7d56b8d.css.map",
+    "main.04546ed6.js.map": "/kushagra178s.github.io/Contact-list/static/js/main.04546ed6.js.map",
+    "787.635aedaa.chunk.js.map": "/kushagra178s.github.io/Contact-list/static/js/787.635aedaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7d56b8d.css",
+    "static/js/main.04546ed6.js"
+  ]
+}
